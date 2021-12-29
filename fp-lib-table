@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name customparts)(type KiCad)(uri ${KIPRJMOD}/customparts.pretty)(options "")(descr ""))
+  (lib (name Espressif)(type KiCad)(uri ${KIPRJMOD}/espressif_kicad_libs/kicad-libraries/footprints/Espressif.pretty)(options "")(descr ""))
+  (lib (name meshtastic_antenna)(type Eagle)(uri ${KIPRJMOD}/meshtastic_antenna.lbr)(options "")(descr ""))
+)
