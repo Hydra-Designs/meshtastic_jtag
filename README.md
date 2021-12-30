@@ -22,7 +22,7 @@ An easy to assemble JTAG debugging PCB for meshtastic
 
 ## Contributing
 
-Please contribute using [Github Flow](https://guides.github.com/introduction/flow/). Create a branch, add commits, and [open a pull request](https://github.com/PlumRugOfDoom/project-hydra-meshtastic-pcb/compare/).  
+Please contribute using [Github Flow](https://guides.github.com/introduction/flow/). Create a branch, add commits, and [open a pull request](https://github.com/PlumRugOfDoom/project-hydra-meshtastic-pcb/compare/). Remember to ```git clone --recursive git@github.com:Hydra-Designs/meshtastic_jtag.git``` or ```git submodule update --init``` since the official espressif KiCAD libs have been included in a submodule.  
 
 ## Support
 
