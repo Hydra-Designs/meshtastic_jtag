@@ -1,6 +1,6 @@
 # meshtastic_jtag
 An easy to assemble JTAG debugging PCB for meshtastic
-![image](https://user-images.githubusercontent.com/93053584/147738295-9b7d4699-67b8-4f2e-a096-4eeed22b6628.jpeg)
+![image](https://user-images.githubusercontent.com/93053584/147745715-080e80f3-2030-4ce9-ad3c-692475535ce4.jpeg)
 
 ## Features
 - Works with any ESP32 Devkit C compatible board  
